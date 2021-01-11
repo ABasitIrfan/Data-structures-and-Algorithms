@@ -1,0 +1,9 @@
+c:\users\17b-097-se\documents\visual studio 2013\Projects\GCD\GCD\bin\Debug\GCD.exe.config
+c:\users\17b-097-se\documents\visual studio 2013\Projects\GCD\GCD\bin\Debug\GCD.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\GCD\GCD\bin\Debug\GCD.pdb
+c:\users\17b-097-se\documents\visual studio 2013\Projects\GCD\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+c:\users\17b-097-se\documents\visual studio 2013\Projects\GCD\GCD\obj\Debug\GCD.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\GCD\GCD\obj\Debug\GCD.pdb
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab06\GCD\bin\Debug\GCD.exe.config
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab06\GCD\obj\Debug\GCD.exe
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab06\GCD\obj\Debug\GCD.pdb

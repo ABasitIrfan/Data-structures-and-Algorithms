@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2013\Projects\OOP FINAL\DS(CShap)L1\DS(CShap)L1\bin\Debug\DS(CShap)L1.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\OOP FINAL\DS(CShap)L1\DS(CShap)L1\bin\Debug\DS(CShap)L1.exe
+c:\users\dell\documents\visual studio 2013\Projects\OOP FINAL\DS(CShap)L1\DS(CShap)L1\bin\Debug\DS(CShap)L1.pdb
+c:\users\dell\documents\visual studio 2013\Projects\OOP FINAL\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\OOP FINAL\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.exe
+c:\users\dell\documents\visual studio 2013\Projects\OOP FINAL\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Data Structures\DS(CShap)L1\DS(CShap)L1\bin\Debug\DS(CShap)L1.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Data Structures\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Data Structures\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Data Structures\DS(CShap)L1\DS(CShap)L1\bin\Debug\DS(CShap)L1.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Data Structures\DS(CShap)L1\DS(CShap)L1\bin\Debug\DS(CShap)L1.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Data Structures\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.csprojResolveAssemblyReference.cache
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\DS(CShap)L1\DS(CShap)L1\bin\Debug\DS(CShap)L1.exe.config
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.exe
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\DS(CShap)L1\DS(CShap)L1\obj\Debug\DS(CShap)L1.pdb
