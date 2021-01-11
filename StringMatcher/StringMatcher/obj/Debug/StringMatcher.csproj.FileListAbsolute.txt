@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\HeapsortProject\StringMatcher\StringMatcher\bin\Debug\StringMatcher.exe.config
+C:\Users\DELL\Desktop\HeapsortProject\StringMatcher\StringMatcher\bin\Debug\StringMatcher.exe
+C:\Users\DELL\Desktop\HeapsortProject\StringMatcher\StringMatcher\bin\Debug\StringMatcher.pdb
+C:\Users\DELL\Desktop\HeapsortProject\StringMatcher\StringMatcher\obj\Debug\StringMatcher.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\HeapsortProject\StringMatcher\StringMatcher\obj\Debug\StringMatcher.exe
+C:\Users\DELL\Desktop\HeapsortProject\StringMatcher\StringMatcher\obj\Debug\StringMatcher.pdb
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\StringMatcher\StringMatcher\bin\Debug\StringMatcher.exe.config
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\StringMatcher\StringMatcher\obj\Debug\StringMatcher.exe
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\StringMatcher\StringMatcher\obj\Debug\StringMatcher.pdb
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\StringMatcher\StringMatcher\bin\Debug\StringMatcher.exe
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\StringMatcher\StringMatcher\bin\Debug\StringMatcher.pdb
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\StringMatcher\StringMatcher\obj\Debug\StringMatcher.csprojResolveAssemblyReference.cache

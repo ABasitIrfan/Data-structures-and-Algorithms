@@ -1,0 +1,12 @@
+c:\users\17b-099-se\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\17b-099-se\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\17b-099-se\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\17b-099-se\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\17b-099-se\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\17b-099-se\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\LinkList\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\LinkList\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\LinkList\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\LinkList\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\LinkList\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\LinkList\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

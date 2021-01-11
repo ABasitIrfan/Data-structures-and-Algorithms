@@ -1,0 +1,9 @@
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Lab04T1\Lab04T1\bin\Debug\Lab04T1.exe.config
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Lab04T1\Lab04T1\bin\Debug\Lab04T1.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Lab04T1\Lab04T1\bin\Debug\Lab04T1.pdb
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Lab04T1\Lab04T1\obj\Debug\Lab04T1.csprojResolveAssemblyReference.cache
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Lab04T1\Lab04T1\obj\Debug\Lab04T1.exe
+c:\users\17b-097-se\documents\visual studio 2013\Projects\Lab04T1\Lab04T1\obj\Debug\Lab04T1.pdb
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab04\Lab04T1\Lab04T1\bin\Debug\Lab04T1.exe.config
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab04\Lab04T1\Lab04T1\obj\Debug\Lab04T1.exe
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab04\Lab04T1\Lab04T1\obj\Debug\Lab04T1.pdb

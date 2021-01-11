@@ -1,0 +1,24 @@
+C:\Users\vbstudent\Desktop\Compete\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\vbstudent\Desktop\Compete\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+C:\Users\vbstudent\Desktop\Compete\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\vbstudent\Desktop\Compete\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\vbstudent\Desktop\Compete\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\vbstudent\Desktop\Compete\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+D:\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\Lab05\Lab05\bin\Debug\Lab05.pdb
+E:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\bin\Debug\Lab05.exe.config
+E:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\obj\Debug\Lab05.exe
+E:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\bin\Debug\Lab05.pdb
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\bin\Debug\Lab05.exe.config
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\obj\Debug\Lab05.exe
+F:\3rd Semester UIT\DS Pracs\Complete Labs DS\Lab05\Lab05\obj\Debug\Lab05.pdb
