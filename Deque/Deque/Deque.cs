@@ -40,7 +40,6 @@ namespace Deque
                 {
                     Array[H] = x;
                     H++;
-                    
                 }
             }
             else
